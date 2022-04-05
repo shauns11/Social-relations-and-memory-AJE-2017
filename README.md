@@ -15,9 +15,9 @@ type. Executive function and memory scores over 8 years (2002–2010) were analy
 within-person changes in positive social support and negative social support were independently associated with
 cognitive decline in different ways according to sex and relationship type. Among men, higher-than-average positive
 social support from a spouse/partner was associated with slower cognitive decline (for executive function,
-β<sub>person-mean×time-in-study</sub> = 0.005, 95% CI: 0.001, 0.010; for memory, βperson-mean×time-in-study = 0.006, 95% CI: 0.000,
+β<sub>person-mean×time-in-study</sub> = 0.005, 95% CI: 0.001, 0.010; for memory, β<sub>person-mean×time-in-study</sub> = 0.006, 95% CI: 0.000,
 0.012); whereas high negative social support from all relationship types was associated with accelerated decline in
-executive function (for all relationships combined, βperson-mean×time-in-study = −0.005, 95% CI: −0.008, −0.002). For
+executive function (for all relationships combined, β<sub>person-mean×time-in-study</sub> = −0.005, 95% CI: −0.008, −0.002). For
 women, higher-than-average positive social support from children (β = 0.037, 95% CI: 0.010, 0.064) and friends
 (β = 0.115, 95% CI: 0.081, 0.150)—but not from a spouse/partner (β = −0.034, 95% CI: −0.059, −0.009) or extended
 family (β = −0.035, 95% CI: −0.064, −0.006)—was associated with higher executive function. Associations
