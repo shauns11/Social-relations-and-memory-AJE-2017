@@ -5,7 +5,9 @@ Jing Liao<sup>1</sup>,<sup>2</sup> and Shaun Scholes<sup>3</sup>
 **Am J Epidemiol.** 2017;186:787–795.
 
 <sup>1</sup> Department of Medical Statistics and Epidemiology, School of Public Health, Sun Yat-sen University, No.74 Zhongshan 2nd Road, Guangzhou, P.R. China. 
+
 <sup>2</sup> Sun Yat-sen Global Health Institute, Institute of State Governance, Sun Yat-sen University, No.135 Xingang West Road, P.R. China.
+
 <sup>3</sup> Department of Epidemiology and Public Health, University College London, 1-19 Torrington Place, London, WC1E 6BT, United Kingdom.
 
 We examined whether between-persons differences and within-person changes in levels of social support were
